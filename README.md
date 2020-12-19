@@ -1,1 +1,1 @@
-this is a recipe to make a cake easyly.
+## **This is a recipe to make a cake easily**
